@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "I'm Not OK",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-03-19T01:43:49.356755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Not Ok",
+      "artist": "ILOVEMAKONNEN",
+      "has_synced": false,
+      "path": "select/01_I'm_Not_Ok_ILOVEMAKONNEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Not Ok",
+      "artist": "Weathers",
+      "has_synced": true,
+      "path": "select/02_I'm_Not_Ok_Weathers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Not OK",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/03_I'm_Not_OK_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Not OK",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/04_I'm_Not_OK_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Not Ok (Original Mix)",
+      "artist": "Weathers",
+      "has_synced": true,
+      "path": "select/05_I'm_Not_Ok_(Original_Mix)_Weathers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Swear I'm Not OK",
+      "artist": "Drag Me Out",
+      "has_synced": true,
+      "path": "select/06_I_Swear_I'm_Not_OK_Drag_Me_Out.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Im Not OK With That",
+      "artist": "Sy Ari Da Kid",
+      "has_synced": false,
+      "path": "select/07_Im_Not_OK_With_That_Sy_Ari_Da_Kid.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Not Ok",
+      "artist": "The Sweeplings",
+      "has_synced": true,
+      "path": "select/08_I'm_Not_Ok_The_Sweeplings.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Im Not Ok (But I'll Be Alright)",
+      "artist": "SkitzoBeats",
+      "has_synced": true,
+      "path": "select/09_Im_Not_Ok_(But_I'll_Be_Alright)_SkitzoBeats.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Not OK",
+      "artist": "Trent Dabbs",
+      "has_synced": true,
+      "path": "select/10_I'm_Not_OK_Trent_Dabbs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No, I'm Not Ok",
+      "artist": "Yung Bleu",
+      "has_synced": true,
+      "path": "select/11_No,_I'm_Not_Ok_Yung_Bleu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Not OK",
+      "artist": "Jill Andrews",
+      "has_synced": true,
+      "path": "select/12_I'm_Not_OK_Jill_Andrews.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Not OK",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/13_I'm_Not_OK_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Not Ok",
+      "artist": "Weathers",
+      "has_synced": true,
+      "path": "select/14_I'm_Not_Ok_Weathers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Not Ok (I Promise) [Live]",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/15_I'm_Not_Ok_(I_Promise)_[Live]_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No, I'm Not Ok",
+      "artist": "Jay-Way",
+      "has_synced": true,
+      "path": "select/16_No,_I'm_Not_Ok_Jay-Way.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "No, I’m Not Ok",
+      "artist": "BLEU",
+      "has_synced": true,
+      "path": "select/17_No,_I’m_Not_Ok_BLEU.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I’m Not Ok",
+      "artist": "RHODES",
+      "has_synced": true,
+      "path": "select/18_I’m_Not_Ok_RHODES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm Not OK",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_Not_OK_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "I'm Not OK",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_02_I'm_Not_OK_ちゃんみな.txt"
+    }
+  ]
+}
