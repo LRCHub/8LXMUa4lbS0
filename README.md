@@ -1,0 +1,55 @@
+# CHANMINA – I'm Not OK
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.17] My last smile was a while ago
+[00:08.26] I can show you my fears and how wild I go
+[00:11.27] I got tattoo tears on my mind, I know
+[00:14.17] That they're really my favorite
+[00:16.03] Everything's changing
+[00:26.53] 
+[00:17.30] Nothing stays the same, but the heartbreak
+[00:19.53] Hole in my chest, can't see it, but it's heart-shaped, baby
+[00:23.40] Pour pain in a champagne glass, seat belt for my feelings
+[00:27.02] 'Cause I know it won't last with you
+[00:45.02] 
+[00:30.63] I'm not okay
+[00:32.84] Excuse the screaming, I just thought you needed to know
+[00:36.24] I'm not okay
+[00:38.91] Don't you worry, I've got everything in control
+[00:42.16] I'm not okay
+[00:45.08] I'm nervous, struggling to be perfect, and that's okay
+[00:50.96] I'm hurting, and finally got the nerve to say
+[00:53.79] "I'm not o- (one, two, three) Kay"
+[01:10.79] 
+[00:56.47] Ten miles down a winding road
+[00:58.85] Tin roof raindrops that remind me of you
+[01:02.18] Fourteen-karat solid gold teardrops in my coffee
+[01:06.24] Look at what you cost me
+[01:18.24] 
+[01:07.72] And I would leave it all in a heartbeat
+[01:09.82] Found the lighter that you left in the car seat (yeah, yeah)
+[01:13.49] I'ma set fire to the whole thing
+[01:15.97] But it wouldn't do much 'cause I won't be over you
+[01:40.97] 
+[01:21.04] I'm not okay
+[01:23.26] Excuse the screaming, I just thought you needed to know
+[01:26.65] I'm not okay
+[01:29.34] Don't you worry, I've got everything in control
+[01:32.50] I'm not okay
+[01:35.56] I'm nervous, struggling to be perfect, and that's okay
+[01:41.31] I'm hurting, and finally got the nerve to say
+[02:03.81] 
+[01:45.17] Oh, whoa, I'm not okay
+[01:50.73] Oh, whoa, I'm not o-
+[01:56.68] Oh, whoa, I'm not okay
+[02:02.41] Oh, whoa, I'm not okay
+[02:13.41] 
+[02:09.34] Excuse the screaming, I just thought you needed to know
+[02:12.82] I'm not okay
+[02:15.21] Don't you worry, I've got everything in control
+[02:18.66] I'm not okay
+[02:21.56] I'm nervous, struggling to be perfect, and that's okay
+[02:27.25] I'm hurting, and finally got the nerve to say
+```
